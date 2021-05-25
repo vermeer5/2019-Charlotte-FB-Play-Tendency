@@ -3,7 +3,8 @@
 With the help of CFBfastR to download play-by-play data, this notebook examines UNC Charlotte's football tendencies between rushing and passing play calls.
 
 In addition to the extreme ends of the field, more rushes are called around midfield when Charlotte's offense has more than two minutes left in the half. 
-Interestingly, more passing plays are called before the offense enters the red zone before favoring rushing plays approaching the goal line.   
+Interestingly, more passing plays are called before the offense enters the red zone before favoring rushing plays approaching the goal line. 
+
 ![Yards-to-Goal](https://github.com/vermeer5/2019-Charlotte-FB-Play-Tendency/blob/90411f8a69e0bcddb2ed642ee750d01d1aaaa2f3/CLT%20Play%20Type%20by%20Yards%20to%20Goal.png)
 
 Under two minute drill conditions, the offense will often err on the side of caution if backed up in the deepest third of the field.  
